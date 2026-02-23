@@ -120,5 +120,5 @@ int main() {
     printf("PIB: %.2f\n", PIB1);
     printf("Pontos Turisticos: %d\n", pontos1); 
 
-return 0; // isso encerra a leitura do código 👀
+return 0; // isso encerra a leitura do código 
 } 
