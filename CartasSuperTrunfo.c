@@ -81,8 +81,8 @@ int main() {
     printf("População: ");
     scanf(" %d", &habitantes1);
 
-    printf("Área (em Km2): ");
-    scanf("%f", &area1);
+    printf("Área (em Km2): "); //deu um outro erro  aqui, se o usuario colocar "km²" no texto o código buga
+    scanf("%f", &area1); //e eu não soube resolver 🥹
 
     printf("PIB: ");
     scanf("%f", &PIB1);
