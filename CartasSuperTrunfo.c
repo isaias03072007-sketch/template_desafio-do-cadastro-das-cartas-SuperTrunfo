@@ -9,7 +9,7 @@ int main() {
     float area, PIB; // Casas decimais. Declara uma variável de ponto flutuante chamada "PIB".
     int numero; //declara uma varíavel de numero inteiro chamada "número".
 
-    Printf("Desafio Super Trunfo!!") ; //imprime a informação que esta ente aspas.
+    printf("Desafio Super Trunfo!!") ; //imprime a informação que esta ente aspas.
 
 
     printf("Digite as Informações da sua carta:\n"); //imprime a informação que esta ente aspas.
